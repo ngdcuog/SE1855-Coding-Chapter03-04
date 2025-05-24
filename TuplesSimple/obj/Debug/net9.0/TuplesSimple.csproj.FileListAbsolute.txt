@@ -1,0 +1,14 @@
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\TuplesSimple\bin\Debug\net9.0\TuplesSimple.exe
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\TuplesSimple\bin\Debug\net9.0\TuplesSimple.deps.json
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\TuplesSimple\bin\Debug\net9.0\TuplesSimple.runtimeconfig.json
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\TuplesSimple\bin\Debug\net9.0\TuplesSimple.dll
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\TuplesSimple\bin\Debug\net9.0\TuplesSimple.pdb
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\TuplesSimple\obj\Debug\net9.0\TuplesSimple.GeneratedMSBuildEditorConfig.editorconfig
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\TuplesSimple\obj\Debug\net9.0\TuplesSimple.AssemblyInfoInputs.cache
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\TuplesSimple\obj\Debug\net9.0\TuplesSimple.AssemblyInfo.cs
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\TuplesSimple\obj\Debug\net9.0\TuplesSimple.csproj.CoreCompileInputs.cache
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\TuplesSimple\obj\Debug\net9.0\TuplesSimple.dll
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\TuplesSimple\obj\Debug\net9.0\refint\TuplesSimple.dll
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\TuplesSimple\obj\Debug\net9.0\TuplesSimple.pdb
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\TuplesSimple\obj\Debug\net9.0\TuplesSimple.genruntimeconfig.cache
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\TuplesSimple\obj\Debug\net9.0\ref\TuplesSimple.dll

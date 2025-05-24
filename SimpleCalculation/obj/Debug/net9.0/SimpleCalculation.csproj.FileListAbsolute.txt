@@ -1,0 +1,14 @@
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\SimpleCalculation\bin\Debug\net9.0\SimpleCalculation.exe
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\SimpleCalculation\bin\Debug\net9.0\SimpleCalculation.deps.json
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\SimpleCalculation\bin\Debug\net9.0\SimpleCalculation.runtimeconfig.json
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\SimpleCalculation\bin\Debug\net9.0\SimpleCalculation.dll
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\SimpleCalculation\bin\Debug\net9.0\SimpleCalculation.pdb
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\SimpleCalculation\obj\Debug\net9.0\SimpleCalculation.GeneratedMSBuildEditorConfig.editorconfig
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\SimpleCalculation\obj\Debug\net9.0\SimpleCalculation.AssemblyInfoInputs.cache
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\SimpleCalculation\obj\Debug\net9.0\SimpleCalculation.AssemblyInfo.cs
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\SimpleCalculation\obj\Debug\net9.0\SimpleCalculation.csproj.CoreCompileInputs.cache
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\SimpleCalculation\obj\Debug\net9.0\SimpleCalculation.dll
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\SimpleCalculation\obj\Debug\net9.0\refint\SimpleCalculation.dll
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\SimpleCalculation\obj\Debug\net9.0\SimpleCalculation.pdb
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\SimpleCalculation\obj\Debug\net9.0\SimpleCalculation.genruntimeconfig.cache
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\SimpleCalculation\obj\Debug\net9.0\ref\SimpleCalculation.dll

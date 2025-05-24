@@ -1,0 +1,14 @@
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\FullStructorProject\bin\Release\net9.0\FullStructorProject.exe
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\FullStructorProject\bin\Release\net9.0\FullStructorProject.deps.json
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\FullStructorProject\bin\Release\net9.0\FullStructorProject.runtimeconfig.json
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\FullStructorProject\bin\Release\net9.0\FullStructorProject.dll
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\FullStructorProject\bin\Release\net9.0\FullStructorProject.pdb
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\FullStructorProject\obj\Release\net9.0\FullStructorProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\FullStructorProject\obj\Release\net9.0\FullStructorProject.AssemblyInfoInputs.cache
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\FullStructorProject\obj\Release\net9.0\FullStructorProject.AssemblyInfo.cs
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\FullStructorProject\obj\Release\net9.0\FullStructorProject.csproj.CoreCompileInputs.cache
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\FullStructorProject\obj\Release\net9.0\FullStructorProject.dll
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\FullStructorProject\obj\Release\net9.0\refint\FullStructorProject.dll
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\FullStructorProject\obj\Release\net9.0\FullStructorProject.pdb
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\FullStructorProject\obj\Release\net9.0\FullStructorProject.genruntimeconfig.cache
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\FullStructorProject\obj\Release\net9.0\ref\FullStructorProject.dll

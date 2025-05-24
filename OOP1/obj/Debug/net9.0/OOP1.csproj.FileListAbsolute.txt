@@ -1,0 +1,14 @@
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\OOP1\bin\Debug\net9.0\OOP1.exe
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\OOP1\bin\Debug\net9.0\OOP1.deps.json
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\OOP1\bin\Debug\net9.0\OOP1.runtimeconfig.json
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\OOP1\bin\Debug\net9.0\OOP1.dll
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\OOP1\bin\Debug\net9.0\OOP1.pdb
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\OOP1\obj\Debug\net9.0\OOP1.GeneratedMSBuildEditorConfig.editorconfig
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\OOP1\obj\Debug\net9.0\OOP1.AssemblyInfoInputs.cache
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\OOP1\obj\Debug\net9.0\OOP1.AssemblyInfo.cs
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\OOP1\obj\Debug\net9.0\OOP1.csproj.CoreCompileInputs.cache
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\OOP1\obj\Debug\net9.0\OOP1.dll
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\OOP1\obj\Debug\net9.0\refint\OOP1.dll
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\OOP1\obj\Debug\net9.0\OOP1.pdb
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\OOP1\obj\Debug\net9.0\OOP1.genruntimeconfig.cache
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\OOP1\obj\Debug\net9.0\ref\OOP1.dll

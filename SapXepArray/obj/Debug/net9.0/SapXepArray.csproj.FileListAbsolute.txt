@@ -1,0 +1,14 @@
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\SapXepArray\bin\Debug\net9.0\SapXepArray.exe
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\SapXepArray\bin\Debug\net9.0\SapXepArray.deps.json
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\SapXepArray\bin\Debug\net9.0\SapXepArray.runtimeconfig.json
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\SapXepArray\bin\Debug\net9.0\SapXepArray.dll
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\SapXepArray\bin\Debug\net9.0\SapXepArray.pdb
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\SapXepArray\obj\Debug\net9.0\SapXepArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\SapXepArray\obj\Debug\net9.0\SapXepArray.AssemblyInfoInputs.cache
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\SapXepArray\obj\Debug\net9.0\SapXepArray.AssemblyInfo.cs
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\SapXepArray\obj\Debug\net9.0\SapXepArray.csproj.CoreCompileInputs.cache
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\SapXepArray\obj\Debug\net9.0\SapXepArray.dll
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\SapXepArray\obj\Debug\net9.0\refint\SapXepArray.dll
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\SapXepArray\obj\Debug\net9.0\SapXepArray.pdb
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\SapXepArray\obj\Debug\net9.0\SapXepArray.genruntimeconfig.cache
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\SapXepArray\obj\Debug\net9.0\ref\SapXepArray.dll

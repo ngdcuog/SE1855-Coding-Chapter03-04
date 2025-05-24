@@ -1,0 +1,14 @@
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\CallByReference\bin\Debug\net9.0\CallByReference.exe
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\CallByReference\bin\Debug\net9.0\CallByReference.deps.json
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\CallByReference\bin\Debug\net9.0\CallByReference.runtimeconfig.json
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\CallByReference\bin\Debug\net9.0\CallByReference.dll
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\CallByReference\bin\Debug\net9.0\CallByReference.pdb
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\CallByReference\obj\Debug\net9.0\CallByReference.GeneratedMSBuildEditorConfig.editorconfig
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\CallByReference\obj\Debug\net9.0\CallByReference.AssemblyInfoInputs.cache
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\CallByReference\obj\Debug\net9.0\CallByReference.AssemblyInfo.cs
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\CallByReference\obj\Debug\net9.0\CallByReference.csproj.CoreCompileInputs.cache
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\CallByReference\obj\Debug\net9.0\CallByReference.dll
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\CallByReference\obj\Debug\net9.0\refint\CallByReference.dll
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\CallByReference\obj\Debug\net9.0\CallByReference.pdb
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\CallByReference\obj\Debug\net9.0\CallByReference.genruntimeconfig.cache
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\CallByReference\obj\Debug\net9.0\ref\CallByReference.dll

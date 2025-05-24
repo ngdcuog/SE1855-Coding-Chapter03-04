@@ -1,0 +1,14 @@
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\FirstDegree\bin\Release\net9.0\FirstDegree.exe
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\FirstDegree\bin\Release\net9.0\FirstDegree.deps.json
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\FirstDegree\bin\Release\net9.0\FirstDegree.runtimeconfig.json
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\FirstDegree\bin\Release\net9.0\FirstDegree.dll
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\FirstDegree\bin\Release\net9.0\FirstDegree.pdb
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\FirstDegree\obj\Release\net9.0\FirstDegree.GeneratedMSBuildEditorConfig.editorconfig
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\FirstDegree\obj\Release\net9.0\FirstDegree.AssemblyInfoInputs.cache
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\FirstDegree\obj\Release\net9.0\FirstDegree.AssemblyInfo.cs
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\FirstDegree\obj\Release\net9.0\FirstDegree.csproj.CoreCompileInputs.cache
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\FirstDegree\obj\Release\net9.0\FirstDegree.dll
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\FirstDegree\obj\Release\net9.0\refint\FirstDegree.dll
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\FirstDegree\obj\Release\net9.0\FirstDegree.pdb
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\FirstDegree\obj\Release\net9.0\FirstDegree.genruntimeconfig.cache
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\FirstDegree\obj\Release\net9.0\ref\FirstDegree.dll

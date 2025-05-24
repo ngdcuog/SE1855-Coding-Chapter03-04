@@ -1,0 +1,14 @@
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\ParamForArray\bin\Debug\net9.0\ParamForArray.exe
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\ParamForArray\bin\Debug\net9.0\ParamForArray.deps.json
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\ParamForArray\bin\Debug\net9.0\ParamForArray.runtimeconfig.json
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\ParamForArray\bin\Debug\net9.0\ParamForArray.dll
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\ParamForArray\bin\Debug\net9.0\ParamForArray.pdb
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\ParamForArray\obj\Debug\net9.0\ParamForArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\ParamForArray\obj\Debug\net9.0\ParamForArray.AssemblyInfoInputs.cache
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\ParamForArray\obj\Debug\net9.0\ParamForArray.AssemblyInfo.cs
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\ParamForArray\obj\Debug\net9.0\ParamForArray.csproj.CoreCompileInputs.cache
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\ParamForArray\obj\Debug\net9.0\ParamForArray.dll
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\ParamForArray\obj\Debug\net9.0\refint\ParamForArray.dll
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\ParamForArray\obj\Debug\net9.0\ParamForArray.pdb
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\ParamForArray\obj\Debug\net9.0\ParamForArray.genruntimeconfig.cache
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\ParamForArray\obj\Debug\net9.0\ref\ParamForArray.dll
