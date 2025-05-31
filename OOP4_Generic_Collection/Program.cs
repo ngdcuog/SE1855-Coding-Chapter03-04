@@ -81,7 +81,7 @@ list2.ForEach(e => Console.WriteLine(e));
 
 sumSalary = list2.Sum(e => e.calSalary());
 Console.WriteLine("Tổng lương của tất cả nhân sự chính thức : " + sumSalary);
-
+Console.WriteLine();
 // Câu 4 sắp xếp toàn bộ nhân sự theo năm sinh tăng dần 
 for(int i = 0; i < employees.Count; i++)
 {
@@ -99,3 +99,50 @@ for(int i = 0; i < employees.Count; i++)
 }
 Console.WriteLine("Danh sách nhân sự sau khi sắp xếp năm sinh tăng dần ");
 employees.ForEach(e => Console.WriteLine(e));
+
+// câu 5 sửa thông tin nhân viên
+Console.WriteLine("------------------ Cập nhật thông tin nhân viên ------------------");
+Console.Write("Nhập id nhân viên cần cập nhật: ");
+int updateId = int.Parse(Console.ReadLine());
+
+Employee empToUpdate = employees.FirstOrDefault(e => e.Id == updateId);
+if(empToUpdate != null)
+{
+    Console.Write("Nhập tên cần cập nhật: ");
+    empToUpdate.Name = Console.ReadLine();
+
+    Console.Write("Nhập IDCard cần cập nhật: ");
+    empToUpdate.IdCard = Console.ReadLine();
+
+    Console.Write("Nhập Birthday cần cập nhật: (yyyy-MM-dd)");
+    String birthdayInput = Console.ReadLine();
+    DateTime birthday;
+    if(DateTime.TryParse(birthdayInput, out birthday))
+    {
+        empToUpdate.Birthday = birthday;
+    } else
+    {
+        Console.WriteLine("Ngày sinh không hợp lệ");
+    }
+
+    Console.WriteLine("Cập nhật thông tin thành công. Thông tin mới:");
+    Console.WriteLine(empToUpdate);
+}
+
+
+// câu 6 Xóa thông tin nhân viên 
+Console.WriteLine("------------------ Xóa thông tin nhân viên ------------------");
+Console.Write("Nhập id nhân viên cần xóa: ");
+int deleteId = int.Parse(Console.ReadLine());
+
+Employee empToDelete = employees.FirstOrDefault(e => e.Id == deleteId);
+if (empToDelete != null)
+{
+    employees.Remove(empToDelete);
+    Console.WriteLine("Xóa nhân viên thành công\n Danh sách nhân viên sau khi xóa");
+    employees.ForEach(e => Console.WriteLine(e));
+}
+else
+{
+    Console.WriteLine("Không tìm thấy nhân viên với Id tương ứng!!!");
+}

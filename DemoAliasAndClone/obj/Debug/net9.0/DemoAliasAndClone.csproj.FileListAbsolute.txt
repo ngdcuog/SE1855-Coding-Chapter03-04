@@ -1,0 +1,15 @@
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\DemoAliasAndClone\bin\Debug\net9.0\DemoAliasAndClone.exe
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\DemoAliasAndClone\bin\Debug\net9.0\DemoAliasAndClone.deps.json
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\DemoAliasAndClone\bin\Debug\net9.0\DemoAliasAndClone.runtimeconfig.json
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\DemoAliasAndClone\bin\Debug\net9.0\DemoAliasAndClone.dll
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\DemoAliasAndClone\bin\Debug\net9.0\DemoAliasAndClone.pdb
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\DemoAliasAndClone\obj\Debug\net9.0\DemoAliasAndClone.GeneratedMSBuildEditorConfig.editorconfig
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\DemoAliasAndClone\obj\Debug\net9.0\DemoAliasAndClone.AssemblyInfoInputs.cache
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\DemoAliasAndClone\obj\Debug\net9.0\DemoAliasAndClone.AssemblyInfo.cs
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\DemoAliasAndClone\obj\Debug\net9.0\DemoAliasAndClone.csproj.CoreCompileInputs.cache
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\DemoAliasAndClone\obj\Debug\net9.0\DemoAliasAndClone.sourcelink.json
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\DemoAliasAndClone\obj\Debug\net9.0\DemoAliasAndClone.dll
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\DemoAliasAndClone\obj\Debug\net9.0\refint\DemoAliasAndClone.dll
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\DemoAliasAndClone\obj\Debug\net9.0\DemoAliasAndClone.pdb
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\DemoAliasAndClone\obj\Debug\net9.0\DemoAliasAndClone.genruntimeconfig.cache
+D:\1.FPT\Semester_5\PRN212\PRN212_SE1855\DemoAliasAndClone\obj\Debug\net9.0\ref\DemoAliasAndClone.dll
